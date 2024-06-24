@@ -5,6 +5,7 @@
 - 📫 How to reach me on godot
 - 😄 Pronouns: godot?
 - ⚡ Fun fact: godot exists
+- جی دی اسکریپت خوب بلدم. صلواتی کار میکنم.
 
 <!---
 AHesami8/AHesami8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
